@@ -31,6 +31,7 @@ GitHub - To share the project.
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer. 
 
 ## Reference
+[Download the Excel visualization here](https://1drv.ms/x/c/d5bcb49ac4662299/EabktZjH59ROty9s9f32j6cBvwPrzZY7N1zipvbqc91NjA?e=YeTKIs)
 [Download SQL Query here](https://1drv.ms/u/c/d5bcb49ac4662299/Efv0dDEu3oNHlLU0fE1RfeEBlf8Cwpc184nIr7pZ8VFZng?e=7zEZKz) 
 
 ## Author
