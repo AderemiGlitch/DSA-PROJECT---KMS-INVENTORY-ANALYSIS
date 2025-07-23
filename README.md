@@ -24,12 +24,16 @@ GitHub - To share the project.
    <img width="1042" height="495" alt="image" src="https://github.com/user-attachments/assets/ab8745f5-5cde-47bc-9c39-b737a39225b5" />
 
    Bottom 3 regions: **Nunavut, Northwest Territories, Yukon**
-4. What were the total sales of appliances in Ontario? **3063212.6**
-5. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+   <img width="1042" height="495" alt="image" src="https://github.com/user-attachments/assets/31cf735a-30bd-4642-a2e5-3cb775f6416d" />
+
+3. What were the total sales of appliances in Ontario? **3063212.6**
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
    - Discount should be given on products which attract few sales.
    - Review should be done to determine why bottom 3 products underperform.
    - 
-6. KMS incurred the most shipping cost using which shipping method? **Delivery Truck**
+5. KMS incurred the most shipping cost using which shipping method? **Delivery Truck**
+   <img width="845" height="547" alt="image" src="https://github.com/user-attachments/assets/72203fa3-3f06-4d10-8202-cdf6afc929e0" />
+
    
 ### Case Scenario II
 6. Who are the most valuable customers, and what products or services do they typically purchase?
