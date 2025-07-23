@@ -10,24 +10,33 @@ The slaes dataset from KMS was cleaned using excel then it was queried using SQL
 ## Tools used
 SQL Server Management Studio (SMSS) - To write and run queries.
 
-OneDrive - To store the project
+Microsoft Excel - To visualize data.
+
+OneDrive - To store the project.
 
 GitHub - To share the project.
 
 ## Answers to Business Questions
 ### Case Scenario I
-1. Which product category had the highest sales? Technology
+1. Which product category had the highest sales? **Technology**
 2. What are the Top 3 and Bottom 3 regions in terms of sales?
-3. What were the total sales of appliances in Ontario? 3063212.6
-4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers - Discount should be given on products which attract few sales. Review should be done to determine why bottom 3 products underperform. 
-5. KMS incurred the most shipping cost using which shipping method?
+   Top 3 regions: **West, Ontario, Prarie**
+   <img width="1042" height="495" alt="image" src="https://github.com/user-attachments/assets/ab8745f5-5cde-47bc-9c39-b737a39225b5" />
+
+   Bottom 3 regions: **Nunavut, Northwest Territories, Yukon**
+4. What were the total sales of appliances in Ontario? **3063212.6**
+5. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+   - Discount should be given on products which attract few sales.
+   - Review should be done to determine why bottom 3 products underperform.
+   - 
+6. KMS incurred the most shipping cost using which shipping method? **Delivery Truck**
    
 ### Case Scenario II
 6. Who are the most valuable customers, and what products or services do they typically purchase?
-7. Which small business customer had the highest sales?
-8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
-9. Which consumer customer was the most profi table one?
-10. Which customer returned items, and what segment do they belong to?
+7. Which small business customer had the highest sales? **Dennis Kane**
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012? **Darren Budd**
+9. Which consumer customer was the most profitable one? **Emily Phan**
+10. Which customer returned items, and what segment do they belong to? 
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer. 
 
 ## Reference
