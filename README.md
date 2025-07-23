@@ -20,6 +20,7 @@ GitHub - To share the project.
 ### Case Scenario I
 1. Which product category had the highest sales? **Technology**
 2. What are the Top 3 and Bottom 3 regions in terms of sales?
+3. 
    Top 3 regions: **West, Ontario, Prarie**
    <img width="1042" height="495" alt="image" src="https://github.com/user-attachments/assets/ab8745f5-5cde-47bc-9c39-b737a39225b5" />
 
